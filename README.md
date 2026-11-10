@@ -1,6 +1,6 @@
 <!-- ============================================================
   GitHub Profile README — Israr Hussain
-  Replace YOUR_GITHUB_USERNAME and placeholder links before uploading
+  Replace remaining social/email placeholders before uploading
   ============================================================ -->
 
 <div align="center">
@@ -16,8 +16,8 @@
 
   <br />
 
-  <!-- Profile Views (optional — replace username) -->
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0ea5e9&style=flat" alt="Profile views" />
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=israr381&label=Profile%20Views&color=0ea5e9&style=flat" alt="Profile views" />
 
   <br /><br />
 
@@ -83,12 +83,8 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="28" height="28" /> GitHub Statistics
 
 <div align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=E2E8F0&ring_color=0EA5E9" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=E2E8F0" alt="Top Languages" />
-  </a>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=israr381&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=E2E8F0&ring_color=0EA5E9&cache_seconds=1800" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=israr381&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=E2E8F0&cache_seconds=1800" alt="Top Languages" />
 </div>
 
 ---
@@ -96,15 +92,17 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="Streak" width="28" height="28" /> GitHub Streak
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true&background=0D1117&ring=0EA5E9&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=israr381&theme=radical&hide_border=true&background=0D1117&ring=0EA5E9&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak" />
 </div>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20with%20Meridians.png" alt="Graph" width="28" height="28" /> Contribution Graph
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Graph" width="28" height="28" /> Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0d1117&color=38bdf8&line=0ea5e9&point=7dd3fc&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://ghchart.rshah.org/38bdf8/israr381" alt="Israr Hussain GitHub Contribution Chart" width="100%" />
+  <br /><br />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=israr381&bg_color=0d1117&color=38bdf8&line=0ea5e9&point=7dd3fc&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Activity Graph" />
 </div>
 
 ---
@@ -115,7 +113,7 @@
 
   <p>Let's build something great together — feel free to reach out!</p>
 
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/israr381">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
