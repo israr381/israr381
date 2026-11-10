@@ -6,12 +6,12 @@
 <div align="center">
 
   <!-- Animated Welcome Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:334155&height=200&section=header&text=Hi%2C%20I'm%20Israr%20Hussain&fontSize=42&fontColor=E2E8F0&fontAlignY=35&desc=Software%20Developer%20%7C%20Builder%20%7C%20Lifelong%20Learner&descSize=16&descAlignY=55&animation=fadeIn" alt="Hi, I'm Israr Hussain" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:334155&height=200&section=header&text=Hi%2C%20I'm%20Israr%20Hussain&fontSize=42&fontColor=E2E8F0&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Builder%20%7C%20Lifelong%20Learner&descSize=16&descAlignY=55&animation=fadeIn" alt="Hi, I'm Israr Hussain" />
 
   <!-- Animated Typing Text -->
   <br />
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=50&lines=Software+Developer;Tech+Enthusiast;Problem+Solver;Always+Learning" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=50&lines=Full+Stack+Developer;Tech+Enthusiast;Problem+Solver;Always+Learning" alt="Typing SVG" />
   </a>
 
   <br />
@@ -35,10 +35,11 @@
   ```text
   ┌─────────────────────────────────────────────────────────────┐
   │                                                             │
-  │   Passionate Software Developer crafting clean, scalable,   │
-  │   and thoughtful digital experiences. I love turning ideas  │
-  │   into elegant solutions, exploring new technologies, and   │
-  │   continuously sharpening my craft.                         │
+  │   Passionate Full Stack Developer crafting clean, scalable, │
+  │   and thoughtful digital experiences end to end. I love     │
+  │   turning ideas into elegant solutions across frontend and  │
+  │   backend, exploring new technologies, and continuously     │
+  │   sharpening my craft.                                      │
   │                                                             │
   │   Driven by curiosity. Focused on quality. Always learning. │
   │                                                             │
@@ -48,7 +49,7 @@
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Software%20Development-0ea5e9?style=for-the-badge&logo=code&logoColor=white" alt="Focus" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-0ea5e9?style=for-the-badge&logo=code&logoColor=white" alt="Focus" />
   <img src="https://img.shields.io/badge/Mindset-Always%20Learning-8b5cf6?style=for-the-badge&logo=bookstack&logoColor=white" alt="Mindset" />
   <img src="https://img.shields.io/badge/Approach-Problem%20Solver-10b981?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Approach" />
 </p>
