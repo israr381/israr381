@@ -83,8 +83,8 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="28" height="28" /> GitHub Statistics
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=israr381&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=E2E8F0&ring_color=0EA5E9&cache_seconds=1800" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=israr381&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=E2E8F0&cache_seconds=1800" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats-plus.vercel.app/api?username=israr381&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=E2E8F0&ring_color=0EA5E9&cache_seconds=1800" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats-plus.vercel.app/api/top-langs/?username=israr381&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=E2E8F0&cache_seconds=1800" alt="Top Languages" />
 </div>
 
 ---
